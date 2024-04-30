@@ -12,8 +12,10 @@ Version 0.1
 KiCad + Krita
 
 Референс платы:
+
 ![Reference](pcb_reference.png)
 
 Схема:
+
 ![Sceme](scheme.png)
 
