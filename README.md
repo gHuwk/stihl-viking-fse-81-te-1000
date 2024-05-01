@@ -10,17 +10,19 @@ In this repository, as an exercise, we present the reverse of the notorious stab
 
 ## Versions
 
-### Version 0.2 (In-Progress)
+### Version 0.3 (In-Progress)
 
 TODO: Добавить номиналы резисторов, конденсаторов, обозначить стабилитроны (диоды Зенера) в соответствии с маркировкой, которая стерлась.
-
-TODO: DRC
 
 TODO: Заменить footprint для ряда компонентов
 
 TODO: Изменить размеры платы + добавить Edge Cuts для производства.
 
-### Version 0.1 (Release)
+### Version 0.2 (Release)
+
+Изменена схема, добавлено согласование ширины дорожек
+
+### Version 0.1 
 
 Снята схема стабилизатора. Первичный макет.
 
