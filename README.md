@@ -30,7 +30,7 @@ TODO: Изменить размеры платы + добавить Edge Cuts д
 
 KiCad + Krita
 
-## Picture
+## Pictures
 
 ### Reference:
 
